@@ -214,7 +214,7 @@ string_lower
 
 
 
-### Convert string to lower case
+### Convert string to upper case
 
 
 ```python
